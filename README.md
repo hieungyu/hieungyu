@@ -2,9 +2,9 @@
 🔧 Embedded Engineer | 📡 Technology Enthusiast | ⚡ Computer & Systems
 
 I'm a student passionate about embedded systems, low-level programming, and building real-world IoT/MCU projects.  
-I enjoy working with ESP32, STM32, and exploring how embedded software interacts deeply with hardware.
+I love and enjoy working hard, and I strive to update my skills every day.
 
-## 💡 What I Do and will continue to complete that skill
+## 💡 What I Do 
 - Embedded systems development (ESP32, STM32)
 - Firmware engineering & low-level C/C++
 - RTOS/FreeRTOS, hardware drivers, peripheral programming
