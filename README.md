@@ -23,7 +23,7 @@ I love and enjoy working hard, and I strive to update my skills every day.
 - 📧 Email: kochido0978@gmail.com
 
 ## 😁Langues: 
-- Viet Nam ( Native )
-- English: Toiec ( 800 IIG )
+- Vietnamese: Native
+- English: TOEIC 800 (IIG)
 
 *“Learning new things every day, building every week.”*
