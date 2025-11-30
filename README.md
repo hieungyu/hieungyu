@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hieu!
-🔧 Embedded Engineer | 📡 Technology Enthusiast | ⚡ Computer & Systems
+🔧 Embedded Engineer | 📡 Technology Enthusiast | 💻 Computer & Systems
 
-I'm a student passionate about embedded systems, low-level programming, and building real-world IoT/MCU projects.  
+Now, I'm a student passionate about embedded systems, low-level programming, and building real-world IoT/MCU projects.  
 I love and enjoy working hard, and I strive to update my skills every day.
 
 ## 💡 What I Do 
-- Embedded systems development (ESP32, STM32)
+- Embedded systems development (ESP32, STM32, Raspberry Pi)
 - Firmware engineering & low-level C/C++
 - RTOS/FreeRTOS, hardware drivers, peripheral programming
 - IoT systems, sensors, communication protocols
