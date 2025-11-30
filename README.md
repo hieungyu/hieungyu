@@ -1,11 +1,11 @@
-<h2>  Hi, I'm Hieu! <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2>  Hi, I'm Hieu! <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h2>
 
 🔧 Embedded Engineer | 📡 Technology Enthusiast | 💻 Computer & Systems
 <img align="right" width = 150px height = 100px alt="Github" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" />
 
 I’m a student passionate about **software**, **embedded systems**, **cloud computing**, and learning **new things from the real world**. I love working hard and continuously improving my skills.
 
-<h2> What I Do <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1YWxoYXM0ZzZ3dHVvMTYwNTVmcnhvbWtzZ3VkbmphMHQ3a2l2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuxusKkq2kUy5qCJPC/giphy.gif" width="22"></h2>
+<h2> What I Do <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1YWxoYXM0ZzZ3dHVvMTYwNTVmcnhvbWtzZ3VkbmphMHQ3a2l2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuxusKkq2kUy5qCJPC/giphy.gif" width="21"></h2>
 
 * Embedded systems development: **ESP32, STM32, Raspberry Pi**
 * Firmware engineering & low-level **C/C++ programming**
@@ -40,7 +40,7 @@ I’m a student passionate about **software**, **embedded systems**, **cloud com
 (*Coming soon — currently building embedded & IoT demos!*)
 
 ---
-<h2> Languages <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mbDVweWVnb2Rod3E5YXR4Yzd5ZTJtZGN4cnI5NnNnbXF6aWI0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwgrL4KKPIZoTQY/giphy.gif" width="36"></h2>
+<h2> Languages <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mbDVweWVnb2Rod3E5YXR4Yzd5ZTJtZGN4cnI5NnNnbXF6aWI0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwgrL4KKPIZoTQY/giphy.gif" width="35"></h2>
 
 * Vietnamese: Native
 * English: TOEIC 800 (IIG)
