@@ -19,9 +19,6 @@ I love and enjoy working hard, and I strive to update my skills every day.
 ## 📌 Projects
 (*Coming soon — currently building embedded and IoT demos!*)  
 
-## 🌐 Let's Connect!
-- 📧 Email: kochido0978@gmail.com
-
 ## 😁Langues: 
 - Vietnamese: Native
 - English: TOEIC 800 (IIG)
