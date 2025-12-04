@@ -34,7 +34,6 @@ I’m a student passionate about **software**, **embedded systems**, **cloud com
 **Core Skills:** GPIO, UART, SPI, I2C, PWM, ADC, Interrupts, task scheduling, RTOS basics
 
 ---
-
 ## 📌 Projects
 
 (*Coming soon — currently building embedded & IoT demos!*)
