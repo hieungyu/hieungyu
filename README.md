@@ -32,13 +32,6 @@ My goal is to become an Expert in major Linux and Cloud (my dream)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-1A2D3F?style=for-the-badge)
 ![CubeIDE](https://img.shields.io/badge/CubeIDE-0072C6?style=for-the-badge)
 
-
----
-## 📌 Projects
-
-(*Coming soon — currently building embedded & IoT demos!*)
-
----
 <h2> Languages <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mbDVweWVnb2Rod3E5YXR4Yzd5ZTJtZGN4cnI5NnNnbXF6aWI0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwgrL4KKPIZoTQY/giphy.gif" width="35"></h2>
 
 * Vietnamese: Native
