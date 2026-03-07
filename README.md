@@ -3,7 +3,7 @@
 🔧 Embedded IoT Engineer | 📡 Technology Enthusiast | 💻 Computer & Systems
 <img align="right" width = 150px height = 100px alt="Github" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" />
 
-I’m a student passionate about **software**, **embedded systems**, and learning **new things from the real world**. I love working hard and continuously improving my skills.
+I’m a student passionate about **embedded systems**, and learning **new things from the real world**. I love working hard and continuously improving my skills.
 My goal is to become an Expert in major Linux and Cloud (my dream)
 
 <h2> What I Do <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1YWxoYXM0ZzZ3dHVvMTYwNTVmcnhvbWtzZ3VkbmphMHQ3a2l2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuxusKkq2kUy5qCJPC/giphy.gif" width="21"></h2>
@@ -11,7 +11,7 @@ My goal is to become an Expert in major Linux and Cloud (my dream)
 * Embedded systems development: **ESP32, STM32, Raspberry Pi**
 * Firmware engineering & low-level **C/C++ programming**
 * RTOS/FreeRTOS, hardware drivers, peripheral programming
-* IoT systems, sensors, communication protocols (UART, SPI, I2C, MQTT)
+* IoT systems, sensors, and communication protocols.
 
 
 
