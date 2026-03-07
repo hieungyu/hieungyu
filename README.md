@@ -1,5 +1,5 @@
 <h2>  Hi, I'm Hieu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h2>
-🔧 Embedded IoT Engineer | 📡 Technology Enthusiast | 💻 Computer & Systems
+🔧 Embedded Systems | 📡 Technology Enthusiast | 💻 Computer & Systems
 
 <img align="right" width = 150px height = 100px alt="Github" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" />
 
