@@ -3,8 +3,8 @@
 
 <img align="right" width = 150px height = 100px alt="Github" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" />
 
-I’m a student passionate about **embedded systems**, and learning **new things from the real world**. I love working hard and continuously improving
-my skills. 
+I’m a student passionate about **embedded systems**, and learning **new things from the real world**. I love working hard and continuously improving my skills. 
+
 My goal is to become an Expert in major Linux and Cloud (my dream)
 
 
