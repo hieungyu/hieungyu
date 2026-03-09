@@ -22,6 +22,7 @@ Building strong fundamentals in embedded systems, systems thinking, and improvin
 
 - Learning system architecture and debugging
 
+
 ---
 ## 🛠 Tech Stack
 
@@ -37,8 +38,8 @@ Building strong fundamentals in embedded systems, systems thinking, and improvin
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
----
 
+---
 <p align="center">
 ✨ <i>Learning something new every day, building something every week.</i>
 </p>
